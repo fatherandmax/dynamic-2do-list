@@ -1,0 +1,13 @@
+.taskItem{
+    width: 100%;
+    height: 85px;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: rgba(9, 30, 66, 0.25) 0 1px 0 0;
+    cursor: pointer;
+    user-select: none;
+}
+.taskItem:not(:last-child){
+    margin-bottom: 10px;
+}
