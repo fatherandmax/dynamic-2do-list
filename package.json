@@ -1,0 +1,16 @@
+{
+  "name": "dynamic-2do-list",
+  "version": "1.0.0",
+  "description": "Dynamic 2do List",
+  "scripts": {
+    "postinstall": "lerna bootstrap"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lerna": "^5.5.4"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
