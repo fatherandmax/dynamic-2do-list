@@ -1,7 +1,7 @@
 {
   "name": "dynamic-2do-list",
   "version": "1.0.0",
-  "description": "Dynamic 2do List",
+  "description": "A monorepo for Dynamic 2-do List UI and API",
   "scripts": {
     "postinstall": "lerna bootstrap"
   },

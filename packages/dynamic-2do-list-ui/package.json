@@ -17,6 +17,10 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fatherandmax/dynamic-2do-list.git"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
